@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="44431" started-at="2020-03-10T06:17:57 EET" finished-at="2020-03-10T06:18:42 EET">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="44431" started-at="2020-03-10T06:17:57 EET" finished-at="2020-03-10T06:18:42 EET">
+      <class name="roundTest.TestRound">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:roundTest.TestRound@2d6eabae]" name="beforeClass" is-config="true" duration-ms="8657" started-at="2020-03-10T06:17:57 EET" finished-at="2020-03-10T06:18:06 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="test()[pri:0, instance:roundTest.TestRound@2d6eabae]" name="test" duration-ms="29894" started-at="2020-03-10T06:18:06 EET" finished-at="2020-03-10T06:18:36 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:roundTest.TestRound@2d6eabae]" name="afterClass" is-config="true" duration-ms="5749" started-at="2020-03-10T06:18:36 EET" finished-at="2020-03-10T06:18:42 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- roundTest.TestRound -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
